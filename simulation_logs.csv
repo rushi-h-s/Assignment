@@ -1,0 +1,16 @@
+run_id,solver_type,mesh_count,max_stress_MPa,displacement_mm,convergence_iters,status_text,timestamp
+R001,ANSYS,250000,320,1.2,18,Converged successfully,2025-01-05 10:15
+R002,ANSYS,180000,890,5.6,22,Converged successfully,2025-01-05 10:32
+R003,OpenFOAM,300000,1100,0.9,45,Did not converge,2025-01-05 11:01
+R004,ANSYS,150000,,2.1,15,Converged successfully,2025-01-05 11:18
+R005,OpenFOAM,95000,210,12.5,8,Converged successfully,2025-01-05 11:42
+R006,ANSYS,500000,450,1.8,90,Converged successfully,2025-01-05 12:10
+R007,OpenFOAM,120000,3000,0.4,12,Converged successfully,2025-01-05 12:45
+R008,ANSYS,200000,410,1.6,,Converged successfully,2025-01-05 13:05
+R009,ANSYS,175000,390,1.5,16,Warning: residual spike detected,2025-01-05 13:22
+R010,OpenFOAM,80000,95,0.2,6,Converged successfully,2025-01-05 13:50
+R011,ANSYS,220000,720,4.9,19,Converged successfully,2025-01-05 14:10
+R012,ANSYS,160000,500,2.0,38,Converged successfully,2025-01-05 14:28
+R013,OpenFOAM,140000,480,1.9,20,Did not converge,2025-01-05 14:55
+R014,ANSYS,300000,350,1.1,14,Converged successfully,2025-01-05 15:20
+R015,OpenFOAM,60000,1500,8.2,9,Converged successfully,2025-01-05 15:45
